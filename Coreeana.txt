@@ -1,0 +1,17 @@
+<html> 
+<HEAD>
+<Title> Hobby-urile mele </Title>
+</Head>
+<Body>
+<style>
+body {
+  background-image: url('1hobby.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+<audio controls>
+  <source src="audio1.mp3" type="audio/mpeg">
+</audio> 
